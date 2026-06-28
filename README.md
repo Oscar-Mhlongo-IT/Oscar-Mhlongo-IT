@@ -28,19 +28,25 @@ I believe in learning by building, step by step.
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🧠 Beginner Projects
-- Calculator App (Python)
-- To-Do List Application
-- Basic Login System (Python)
+### 🧮 Python Calculator
+A simple beginner-friendly calculator built using Python.
 
-### 🌐 Web Projects
-- Personal Portfolio Website (coming soon)
-- Simple Landing Page using HTML & CSS
+👉 Repo: https://github.com/Oscar-Mhlongo-IT/python-calculator
 
-### 📌 More Coming Soon...
-I am actively building and improving my skills through real projects.
+---
+
+### 📝 To-Do List App
+A command-line task manager built with Python using loops and lists.
+
+👉 Repo: https://github.com/Oscar-Mhlongo-IT/todo-list-python
+
+---
+
+### 📌 More Projects Coming Soon
+I am actively building and improving my programming skills through real projects.
+
 
 ---
 
