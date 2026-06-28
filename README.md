@@ -88,5 +88,13 @@ I believe in learning by building, step by step.
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning%20Developer-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Software%20Development-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Level-Beginner-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Beginner-Intermediate-orange?style=for-the-badge" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Oscar-Mhlongo-IT&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
