@@ -1,9 +1,18 @@
+<h1 align="center">Hi 👋, I'm Oscar Mhlongo</h1>
+
+<h3 align="center">Aspiring Software Developer | IT Student | Future Tech Entrepreneur</h3>
+
+<p align="center">
+  Learning. Building. Improving every day 💻🔥
+</p>
+
+---
+
 ## 🧑‍💻 About Me
 
-- 🎓 I was an IT student at Vaal University of Technology (VUT) 2023 - 2025
+- 🎓 IT Student at Vaal University of Technology (VUT)
 - 💡 Passionate about software development and technology
-- 📈 I also have experience in Forex trading (XAU/USD focus)
-- 🔥 Currently building my programming skills from beginner to advanced
-- 🎯 My goal is to become a strong software developer and tech entrepreneur
+- 🔥 Currently learning programming from beginner level
+- 🎯 Goal: Become a skilled software developer and build real-world systems
 
-I enjoy learning by building real projects and improving step by step every day.
+I believe in learning by building, step by step.
