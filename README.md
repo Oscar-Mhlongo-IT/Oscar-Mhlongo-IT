@@ -13,7 +13,7 @@
 - 🎓 IT Student at Vaal University of Technology (VUT)
 - 💡 Passionate about software development and technology
 - 🔥 Currently learning programming from beginner level
-- 📈 Also interested in Forex trading (XAU/USD focus)
+- 📈 Interested in Forex trading (XAU/USD focus)
 - 🎯 Goal: Become a skilled software developer and build real-world systems
 
 I believe in learning by building, step by step.
@@ -23,62 +23,35 @@ I believe in learning by building, step by step.
 ## ⚙️ Tech Stack
 
 <p align="center">
-
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode" />
-
 </p>
 
-### 🛠️ Tools & Platforms
-- Visual Studio Code
-- Git & GitHub
-- NetBeans
-- Windows / Linux basics
-
-### 📚 Currently Learning
-- Full-stack web development
-- Backend development fundamentals
-- Databases (SQL basics)
-
 ---
 
-## 🚀 Goals
+## 🚀 Projects
 
-- Build real-world projects
-- Become a full-stack developer
-- Improve problem-solving skills
-- Contribute to open-source projects
-- Create financial freedom through tech
+### 🧠 Beginner Projects
+- Calculator App (Python)
+- To-Do List Application
+- Basic Login System (Python)
 
----
+### 🌐 Web Projects
+- Personal Portfolio Website (coming soon)
+- Simple Landing Page using HTML & CSS
 
-## 📈 GitHub Journey
-
-> “Consistency beats talent when talent doesn’t work hard.”
-
----
-
-## 📫 Contact
-
-- 💼 LinkedIn: https://www.linkedin.com/in/oscar-mhlongo78
-- 📧 Email: mhlongooscar78@gmail.com
-
----
-
-<p align="center">
-  Thanks for visiting my profile 🙏🔥
-</p>
-
+### 📌 More Coming Soon...
+I am actively building and improving my skills through real projects.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oscar-Mhlongo-IT&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Oscar-Mhlongo-IT&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oscar-Mhlongo-IT&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oscar-Mhlongo-IT&theme=tokyonight" />
 </p>
 
 ---
@@ -97,4 +70,17 @@ I believe in learning by building, step by step.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Oscar-Mhlongo-IT&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/oscar-mhlongo78
+- 📧 Email: mhlongooscar78@gmail.com
+
+---
+
+<p align="center">
+  🚀 "Consistency beats talent when talent doesn’t work hard."
 </p>
