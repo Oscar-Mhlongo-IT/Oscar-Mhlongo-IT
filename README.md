@@ -61,7 +61,7 @@ I am actively building and improving my skills through real projects.
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning%20Developer-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Software%20Development-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Level-Beginner-Intermediate-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Beginner-orange?style=for-the-badge" />
 </p>
 
 ---
