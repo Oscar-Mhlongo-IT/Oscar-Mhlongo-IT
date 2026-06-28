@@ -22,11 +22,11 @@ I believe in learning by building, step by step.
 
 ## ⚙️ Tech Stack
 
-### 👨‍💻 Programming Languages
-- Python 🐍 (learning)
-- Java ☕ (learning)
-- JavaScript 🌐 (beginner)
-- HTML & CSS 🎨
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode" />
+
+</p>
 
 ### 🛠️ Tools & Platforms
 - Visual Studio Code
