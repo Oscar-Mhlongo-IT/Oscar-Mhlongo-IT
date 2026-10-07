@@ -1,92 +1,119 @@
-<h1 align="center">Hi 👋, I'm Oscar Mhlongo</h1>
+# Hi 👋, I'm Oscar Mhlongo
 
-<h3 align="center">Aspiring Software Developer | IT Student | Future Tech Entrepreneur</h3>
+### IT Graduate | Software Development | Networking | CompTIA Network+ Certified
 
-<p align="center">
-  Learning. Building. Improving every day 💻🔥
-</p>
+🎓 Diploma in Information Technology (Software Development)
+🌐 CompTIA Network+ Certified
+💻 Building practical software and technology projects
+🚀 Future Tech Entrepreneur
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 IT Student at Vaal University of Technology (VUT)
-- 💡 Passionate about software development and technology
-- 🔥 Currently learning programming from beginner level
-- 📈 Interested in Forex trading (XAU/USD focus)
-- 🎯 Goal: Become a skilled software developer and build real-world systems
+I am an Information Technology graduate from Vaal University of Technology, with a background in Software Development and Networking.
 
-I believe in learning by building, step by step.
+I enjoy building practical solutions, solving technical problems, and continuously developing my skills across different areas of technology.
+
+My interests include software development, web development, networking, IT support, systems, and emerging technologies.
+
+I believe in learning by building — creating real projects, improving my skills, and turning ideas into working solutions.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode" />
-</p>
+### 💻 Software Development
+
+* Python
+* Java
+* JavaScript
+* HTML
+* CSS
+
+### 🌐 IT & Networking
+
+* Computer Networking
+* Network Troubleshooting
+* IT Support
+* Systems Troubleshooting
+* CompTIA Network+
+
+### 🛠️ Tools
+
+* Git
+* GitHub
+* Visual Studio Code
 
 ---
 
 ## 🚀 Featured Projects
 
+### 👤 Face Recognition System
+
+A face recognition system developed as part of my Information Technology studies.
+
+The project demonstrates the application of software development and computer vision concepts to create a practical technology solution.
+
+👉 **Repository:** Coming soon
+
+---
+
+### 🚗 Car Wash Website
+
+A web-based project developed for a car wash business, focusing on creating a functional online presence and user-friendly web experience.
+
+👉 **Repository:** Coming soon
+
+---
+
 ### 🧮 Python Calculator
-A simple beginner-friendly calculator built using Python.
 
-👉 Repo: https://github.com/Oscar-Mhlongo-IT/python-calculator
+A beginner Python project demonstrating basic programming concepts and user input handling.
 
----
-
-### 📝 To-Do List App
-A command-line task manager built with Python using loops and lists.
-
-👉 Repo: https://github.com/Oscar-Mhlongo-IT/todo-list-python
+👉 **Repository:** https://github.com/Oscar-Mhlongo-IT/python-calculator
 
 ---
 
-### 📌 More Projects Coming Soon
-I am actively building and improving my programming skills through real projects.
+### 📝 Python To-Do List
 
+A command-line task management application built with Python using programming fundamentals such as loops, lists and user input.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oscar-Mhlongo-IT&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oscar-Mhlongo-IT&theme=tokyonight" />
-</p>
+👉 **Repository:** https://github.com/Oscar-Mhlongo-IT/todo-list-python
 
 ---
 
-## 🏅 Profile Badges
+## 🎓 Education
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20Developer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Level-Beginner-orange?style=for-the-badge" />
-</p>
+**Vaal University of Technology (VUT)**
+Diploma in Information Technology — Software Development
+**Completed: 2026**
 
 ---
 
-## 👀 Profile Views
+## 📜 Certification
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Oscar-Mhlongo-IT&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+**CompTIA Network+**
 
----
-
-## 📫 Contact Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/oscar-mhlongo78
-- 📧 Email: mhlongooscar78@gmail.com
+Networking certification demonstrating knowledge of networking concepts, infrastructure, operations, security and troubleshooting.
 
 ---
 
-<p align="center">
-  🚀 "Consistency beats talent when talent doesn’t work hard."
-</p>
+## 🎯 Current Goals
+
+* 💻 Build more real-world software projects
+* 🌐 Strengthen my networking and IT infrastructure skills
+* 🧠 Deepen my knowledge of programming, databases and frameworks
+* 🚀 Build technology solutions that solve real problems
+* 📈 Continue growing toward a career in technology and entrepreneurship
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/oscar-mhlongo78
+* 📧 Email: [mhlongooscar78@gmail.com](mailto:mhlongooscar78@gmail.com)
+
+---
+
+> 🚀 **Learn. Build. Improve. Repeat.**
