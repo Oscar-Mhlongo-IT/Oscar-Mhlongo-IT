@@ -1,119 +1,64 @@
-# Hi 👋, I'm Oscar Mhlongo
+# Hi, I'm Oscar Mhlongo 👋
 
-### IT Graduate | Software Development | Networking | CompTIA Network+ Certified
+### IT Graduate | Software Development | Networking | IT Support
 
-🎓 Diploma in Information Technology (Software Development)
-🌐 CompTIA Network+ Certified
-💻 Building practical software and technology projects
-🚀 Future Tech Entrepreneur
+I'm an Information Technology graduate from the Vaal University of Technology, with a Diploma in Information Technology (Software Development) and a CompTIA Network+ certification.
 
----
+I'm passionate about technology, software development, networking, and solving real-world problems through practical IT solutions. I'm continuously developing my technical skills and building projects to grow as an IT professional.
 
-## 🧑‍💻 About Me
+## 🛠️ Technical Skills
 
-I am an Information Technology graduate from Vaal University of Technology, with a background in Software Development and Networking.
-
-I enjoy building practical solutions, solving technical problems, and continuously developing my skills across different areas of technology.
-
-My interests include software development, web development, networking, IT support, systems, and emerging technologies.
-
-I believe in learning by building — creating real projects, improving my skills, and turning ideas into working solutions.
-
----
-
-## ⚙️ Tech Stack & Skills
-
-### 💻 Software Development
-
-* Python
-* Java
-* JavaScript
-* HTML
-* CSS
-
-### 🌐 IT & Networking
-
-* Computer Networking
-* Network Troubleshooting
-* IT Support
-* Systems Troubleshooting
-* CompTIA Network+
-
-### 🛠️ Tools
-
-* Git
-* GitHub
-* Visual Studio Code
-
----
+* **Programming:** Python
+* **Software Development:** Application development and problem-solving
+* **Networking:** Network fundamentals, troubleshooting, and network infrastructure
+* **IT Support:** Technical troubleshooting and system support
+* **Tools & Technologies:** Git, GitHub, OpenCV, SQLite
 
 ## 🚀 Featured Projects
 
-### 👤 Face Recognition System
+### Snap Class — Face Recognition Attendance System
 
-A face recognition system developed as part of my Information Technology studies.
+An academic project that uses face recognition to support student identification and attendance management.
 
-The project demonstrates the application of software development and computer vision concepts to create a practical technology solution.
+**Technologies:** Python, OpenCV, face_recognition, SQLite
 
-👉 **Repository:** Coming soon
+[View Project](https://github.com/Oscar-Mhlongo-IT/snap-class-face-recognition)
 
----
+### Python Calculator
 
-### 🚗 Car Wash Website
+A Python project focused on programming fundamentals and basic calculations.
 
-A web-based project developed for a car wash business, focusing on creating a functional online presence and user-friendly web experience.
+[View Project](https://github.com/Oscar-Mhlongo-IT/python-calculator)
 
-👉 **Repository:** Coming soon
+### Python To-Do List
 
----
+A task-management project built to practise Python programming and application logic.
 
-### 🧮 Python Calculator
+[View Project](https://github.com/Oscar-Mhlongo-IT/todo-list-python)
 
-A beginner Python project demonstrating basic programming concepts and user input handling.
+## 🎓 Certifications & Education
 
-👉 **Repository:** https://github.com/Oscar-Mhlongo-IT/python-calculator
+* Diploma in Information Technology (Software Development) — Vaal University of Technology, 2026
+* CompTIA Network+ Certified
 
----
+## 🌱 Currently Growing
 
-### 📝 Python To-Do List
+* Building practical software development projects
+* Improving my Python programming skills
+* Expanding my networking and troubleshooting knowledge
+* Learning more about databases, frameworks, and modern development tools
 
-A command-line task management application built with Python using programming fundamentals such as loops, lists and user input.
+## 🤝 Let's Connect
 
-👉 **Repository:** https://github.com/Oscar-Mhlongo-IT/todo-list-python
+* **LinkedIn:** [Oscar Mhlongo](https://www.linkedin.com/in/oscar-mhlongo78)
+* **GitHub:** [Oscar-Mhlongo-IT](https://github.com/Oscar-Mhlongo-IT)
+* **Email:** [mhlongooscar78@gmail.com](mailto:mhlongooscar78@gmail.com)
 
----
+I'm open to graduate opportunities, internships, and entry-level roles in software development, IT support, networking, and related technology fields.
 
-## 🎓 Education
-
-**Vaal University of Technology (VUT)**
-Diploma in Information Technology — Software Development
-**Completed: 2026**
-
----
-
-## 📜 Certification
-
-**CompTIA Network+**
-
-Networking certification demonstrating knowledge of networking concepts, infrastructure, operations, security and troubleshooting.
 
 ---
 
-## 🎯 Current Goals
 
-* 💻 Build more real-world software projects
-* 🌐 Strengthen my networking and IT infrastructure skills
-* 🧠 Deepen my knowledge of programming, databases and frameworks
-* 🚀 Build technology solutions that solve real problems
-* 📈 Continue growing toward a career in technology and entrepreneurship
 
----
 
-## 📫 Connect With Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/oscar-mhlongo78
-* 📧 Email: [mhlongooscar78@gmail.com](mailto:mhlongooscar78@gmail.com)
-
----
-
-> 🚀 **Learn. Build. Improve. Repeat.**
